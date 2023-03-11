@@ -1,0 +1,23 @@
+{
+    "name": "Cloud 9 Dance",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "registrant_code": "FL7",
+    "category": "distributor",
+    "description": "Dutch EDM company. Online digital distribution done with FUGA (IIP-DDS)",
+    "discogs_link": "https://www.discogs.com/label/88232-Cloud-9-Dance",
+    "genres": [
+        "Electronic",
+        "Dance & EDM"
+    ],
+    "sublabels": [
+        "Masters of Hardcore",
+        "End of Line",
+        "Minus Is More",
+        "Dogfight Records",
+        "Afterlife Recordings",
+        "Partyraiser Recordings",
+        "Rapture Records",
+        "Snakepit Music"
+    ]
+}
