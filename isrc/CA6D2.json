@@ -1,0 +1,16 @@
+{
+    "name": "Monstercat",
+    "country": "Canada",
+    "country_code": "CA",
+    "registrant_code": "6D2",
+    "category": "record_label",
+    "description": "Canadian independent electronic music label.",
+    "discogs_link": "https://www.discogs.com/label/258955-Monstercat",
+    "genres": [
+        "Electronic",
+        "Dance & EDM"
+    ],
+    "sublabels": [
+        ""
+    ]
+}

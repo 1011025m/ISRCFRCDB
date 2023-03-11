@@ -1,0 +1,21 @@
+{
+    "name": "Label Worx",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "registrant_code": "KQU",
+    "category": "distributor",
+    "description": "British electronic music distributor from the founders of Alter Ego Records. This registrant code is used for the main clients.",
+    "discogs_link": "https://www.discogs.com/label/285786-Label-Worx",
+    "genres": [
+        "Electronic",
+        "Dance & EDM"
+    ],
+    "sublabels": [
+        "Alter Ego Records",
+        "Digital Soceity Recordings",
+        "Enhanced Recordings",
+        "Blue Soho Recordings",
+        "Keeping The Rave Alive",
+        "Otographic Music"
+    ]
+}

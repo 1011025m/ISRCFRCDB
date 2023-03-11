@@ -1,0 +1,25 @@
+{
+    "name": "Black Hole Recordings",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "registrant_code": "D68",
+    "category": "record_label",
+    "description": "Trance music label from The Netherlands, known for managing numerous sublabels created by various trance DJs and producers.",
+    "discogs_link": "https://www.discogs.com/label/3221-Black-Hole-Recordings",
+    "genres": [
+        "Electronic",
+        "Dance & EDM",
+        "Trance"
+    ],
+    "sublabels": [
+        "Afterdark",
+        "AVA Recordings",
+        "Degenerate Records",
+        "Regenerate Records",
+        "AVA White",
+        "Subculture",
+        "Coldharbour Recordings",
+        "GO Music",
+        "Nocturnal Knights"
+    ]
+}

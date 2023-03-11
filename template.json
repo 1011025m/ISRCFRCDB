@@ -1,0 +1,15 @@
+{
+    "name": "Example",
+    "country": "United States",
+    "country_code": "QZ",
+    "registrant_code": "",
+    "category": "distributor",
+    "description": "Example Entry",
+    "discogs_link": "https://www.discogs.com/artist/355-Unknown-Artist",
+    "genres": [
+        "Electronic"
+    ],
+    "sublabels": [
+        "Example"
+    ]
+}

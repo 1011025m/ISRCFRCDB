@@ -1,0 +1,21 @@
+{
+    "name": "Enhanced Music",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "registrant_code": "LV6",
+    "category": "record_label",
+    "description": "British electronic music label, known for releasing trance and progressive music.",
+    "discogs_link": "https://www.discogs.com/label/119609-Enhanced-Music-Limited",
+    "genres": [
+        "Electronic",
+        "Dance & EDM",
+        "Trance"
+    ],
+    "sublabels": [
+        "Always Alive Recordings",
+        "Enhanced Recordings",
+        "Colorize",
+        "Digital Society Recordings",
+        "Enhanced Progressive"
+    ]
+}
